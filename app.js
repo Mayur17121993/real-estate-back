@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 const formRoutes = require("./routes/crud");
-const loginRoutes = require("./routes/loginRoutes");
+const loginRoutes = require("./routes/loginroutes");
 // require("./src/connectionAndSchema/config");
 const path = require("path");
 
